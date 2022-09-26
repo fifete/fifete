@@ -28,13 +28,13 @@ if (you = "Need a Frontend Developer") {
   <a href="https://twitter.com/danielaF_dev" target="_blank">
     <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="35" width="35" />
   </a>
-  <div width="35"></div>
+  <span width="35"></span>
   <a href="https://www.linkedin.com/in/daniela-fuentes-2b685123b/" target="_blank">
     <img align="center" title='LinkedIn' src="./img/linkedln.png" alt="Linkedin"  height="35" width="35" />
   </a>
-  <div width="35"></div>
+  <span width="35"></span>
   <a href="mailto:danielafuentesdev@gmail.com" target="_blank">
     <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="35" width="35" />
   </a>
-  <div width="35"></div>
+  <span width="35"></span>
 </p>
