@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="" width="800">
+  <img src="./img/portada.png" width="800">
 </div>
+
+<div align="center">
+  <img src="./img/welcome.gif" width="400">
+</div>
+
 ```js 
 const AboutMe = {
   name: ["Daniela Fuentes"],
@@ -16,6 +21,7 @@ if (you = "Need a Frontend Developer") {
   inviteYou("See my pinned repositories");
 }
 ```
+
 <h2 align="center">📲 Contact with me:</h2>
 
 <p align="center">
@@ -23,7 +29,7 @@ if (you = "Need a Frontend Developer") {
     <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/daniela-fuentes-2b685123b/" target="_blank">
-    <img align="center" title='LinkedIn' src="./img/linkedin.png" alt="Linkedin"  height="40" width="40" />
+    <img align="center" title='LinkedIn' src="./img/linkedln.png" alt="Linkedin"  height="40" width="40" />
   </a>
   <a href="mailto:danielafuentesdev@gmail.com" target="_blank">
     <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="40" width="40" />
