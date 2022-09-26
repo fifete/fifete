@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./img/welcome.gif" width="400">
+  <img src="./img/welcome.gif" width="200">
 </div>
 
 ```js 
@@ -26,12 +26,15 @@ if (you = "Need a Frontend Developer") {
 
 <p align="center">
   <a href="https://twitter.com/danielaF_dev" target="_blank">
-    <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="40" width="40" />
+    <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="35" width="35" />
   </a>
+  <div width="35"></div>
   <a href="https://www.linkedin.com/in/daniela-fuentes-2b685123b/" target="_blank">
-    <img align="center" title='LinkedIn' src="./img/linkedln.png" alt="Linkedin"  height="40" width="40" />
+    <img align="center" title='LinkedIn' src="./img/linkedln.png" alt="Linkedin"  height="35" width="35" />
   </a>
+  <div width="35"></div>
   <a href="mailto:danielafuentesdev@gmail.com" target="_blank">
-    <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="40" width="40" />
+    <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="35" width="35" />
   </a>
+  <div width="35"></div>
 </p>
