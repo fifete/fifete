@@ -9,7 +9,6 @@
 ```js 
 const AboutMe = {
   name: "Daniela Fuentes",
-  age: "18", 
   country: "Peru",
   languages: ["Spanish", "English"],
   studies: ["Bootcamp Laboratoria"],
